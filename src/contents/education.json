@@ -1,9 +1,18 @@
 [{
-  "name": "Yıldız Technical University",
-  "degree": "Electro",
-  "date": "2015 - 2016"
+  "name": "Yildiz Technical University",
+  "degree": "MD",
+  "date": "2013 - ",
+  "gpa" : "3,23"
 }, {
   "name": "Fatih University",
   "degree": "B.S. Computer Engineering",
-  "date": "2008 - 2013"
-}]
+  "date": "2008 - 2013",
+  "gpa" : "3,50"
+}, {
+  "name": "Fontys Venlo University of Applied Sciences, Netherlands",
+  "degree": " BASc, Information and Communication Technologies",
+  "date": "2011 - 2012",
+  "gpa" : "3,67"
+}
+
+]

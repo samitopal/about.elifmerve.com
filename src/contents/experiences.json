@@ -1,124 +1,48 @@
-[{
-  "company": "Turkcell",
-  "role": "Expert Technical Product Manager",
-  "date": "10/2019 - Present",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Technical Product Manager of Turkcell’s digital publishing product “Dergilik”",
-    "Dergilik has been downloaded by 10 million users up to now and has over 2 million monthly active users.",
-    "Dergilik connects you to the Turkey’s as well as world’s best newspapers andmagazines",
-     "<a href=\"https://dergilik.com.tr\" target=\"_blank\" >Dergilik Web Site</a>"
-  ]
-}, {
-  "company": "Turkcell",
-  "role": "Product Owner",
-  "date": "11/2017 - 10/2019",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Product Owner @fizy Mobile Apps (iOS/Android - Turkey's leading digital music service - https://fizy.com )",
-    "fizy has been downloaded by 10 million users up to now and has over 2 million monthly active users.",
-    "Building effective relationships with key stakeholders",
-    "Management backlog of user stories for mobile platforms",
-    "Applied Agile methods and processes to promote a disciplined and transparent project management process."
-  ]
-}, {
+﻿[{
   "company": "Turk Telekom",
-  "role": "Technical Product Owner",
-  "date": "11/2015 - 11/2017",
+  "role": "Product Manager",
+  "date": "12/2014 - Present",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Responsible for managing the product lifecycle, gathering and prioritizing requirements,communicating and cooperating effectively with all stakeholders to deliver winning products",
-    "Muud : Digital music streaming service/app (https://www.muud.com.tr)",
-    "Bi Dünya Fırsat: segment-specific Applications ( http://onelink.to/46g5mq)",
-    "Servisler Cebimde : segment-specific Application",
-    "Ringa : segment-specific Application",
-    "Telefon Kütüphanesi : Social Responsibility Application",
-    "Internetle Hayat Kolay: Social Responsibility Application",
-    "Kitaplara Ses : Social Responsibility Application",
-    "Erişilebilir Yaşam : Social Responsibility Application",
-    "Survivor Arena",
-    "MAM Push SDK"
+    "Overall management of mobile and digital products/services development project plan, roadmap and life cycle starting from inception to the launch including execution of expansion strategy",
+	"• Working with stakeholders to define business and system requirements for existing and new implementations, and ensuring solutions align with the customers’ needs",
+	"• Executing the product launch process; UI, UX design, IOS & Android product development, content management by analyzing customer’s needs and sector trends.",
+	"• Leading development teams and technical integrations/implementations and also monitoring/controlling/driving of project statuses and budgets",
+	"• Planning and executing digital marketing strategies of acquisition and retention to increase revenue, download, active user (mobile marketing campaigns, push notification, aso, btl communication, cross sell activities)",
+	"• Preparing projections and business plans for the future of Telco industry and presenting to related managers for keeping up to date with latest developments and possible product and business opportunities",
+    
+    "Selected product experiences includes:",
+    "• Messaging: Wirofon app",
+     "<a href=\"https://bireysel.turktelekom.com.tr/ev-telefonu/hizmetler/sayfalar/wirofon.aspx\" target=\"_blank\" Wirofon Web Site</a>",
+    "• Cloud: Dijital Depo, Netdisk and Türk Telekom Bulut apps and websites ",
+     "<a href=\"https://www.dijitaldepo.com.tr/#/pages/home \" target=\"_blank\" Dijital Depo Web Site</a>",
+    "• Segment-Specific Applications: Türk Telekom Prime, Bi Dünya Fırsat and Senin Zamanın ",
+     "<a href=\"http://turktelekom.ly/primeapp \" target=\"_blank\" Prime Web Site and Apps </a>",
+     "<a href=\"http://turktelekom.ly/bidunyafirsat \" target=\"_blank\" Bi' Dünya Fırsat Web Site and Apps </a>",
+     "<a href=\"http://onelink.to/v6st9z \" target=\"_blank\" Senin Zamanın Web Site and Apps </a>",
+    "• Social Responsibility and Accessibility Applications: Telefon Kütüphanesi, Internetle Hayat Kolay, Kitaplara Ses, Erişilebilir Yaşam and EyeSense ",
+     "<a href=\"https://www.turktelekom.com.tr/en/AboutUs/SocialResponsibility/Pages/turk-telekom-group-social-responsibility-projects.aspx \" target=\"_blank\" Turk Telekom Group Social Responsibility Projects' Web Site</a>",
+    "• TTNET Kitap"
   ]
 }, {
-  "company": "Eserim Bilişim A.Ş.",
-  "role": "Software Development Manager",
-  "date": "05/2014 - 06/2015",
+  "company": "DeFacto",
+  "role": "Business Intelligence Developer",
+  "date": "04/2014 - 10/2014",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Eserim Bilişim A.Ş. is a startup company founded in 2014,created a software development team that delivers VoIP communication solutions (which uses WebRTC)",
-    "Build a team of software developers from scratch (Resource planning, hiring)",
-    "Leading a team of 6 engineers with various responsibilities",
-    "Lead technical architect role",
-    "Taking part at development on both mobile apps and platform",
-    "Avazplus (www.avazplus.com) : Avazplus is corporate mobile communication (Voice, message, media) application, similar to whatsapp with additional features.",
-    "AvazLab (www.avazlab.com) : AvazLab is a powerful and easy voice call library for Android and iOS"
+    "Developed various reports through QlikView for different departments regarding their business needs.",
+    "• Building Data Warehouse (MS SQL) by merging large data sets from various data sources.",
+    "• Designing automated reports through MS SSRS.",
+    "• Analyzed the data from web analytics tools and database for revenue and order optimization of the website"
   ]
 }, {
-  "company": "AtlasGlobal Airlines",
-  "role": "Development Manager",
-  "date": "06/2012 - 05/2014",
+  "company": "Yıldız Technical University",
+  "role": "Research Assistant",
+  "date": "07/2013 - 04/2014",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Responsible management of multiple projects and teams",
-    "Marketing Projects: Email and sms marketing,euromsg,powermta,amazon ses,email delivery",
-    "IT Projects: Data cleansing and basic data mining task for email and sms marketing on Oracle DB"
+    "Responsible for academic studies."
   ]
-}, {
-  "company": "AtlasGlobal Airlines",
-  "role": "Lead Development Engineer",
-  "date": "11/2010 - 07/2012",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Responsible for technical part of Target marketing",
-    "Data cleansing and basic data mining for target marketing",
-    "Email and sms marketing"
-  ]
-}, {
-  "company": "ANTE",
-  "role": "Co-Founder",
-  "date": "10/2010 - 08/2011",
-  "location": "Ankara, Turkey",
-  "description_bullets": [
-    "RASS developed for needs of Anadolu Jet Airlines.http://biletalarm.com",
-    "The system is still used by Turkish Airlines and Anadolu Jet.",
-    "Technical Keywords: java, play framework, oracle, amazon cloud"
-  ]
-},
-  {
-    "company": "Fdn SOFT",
-    "role": "Senior Software Developer",
-    "date": "06/2009 - 10/2010",
-    "location": "Ankara, Turkey",
-    "description_bullets": [
-      "Responsible for development of a special web crawler and analysis system. (ITAS) .",
-      "Getting requirements from customer",
-      "Analyse, design and implementation steps",
-      "Continuous communication with customer, managing change requests from customer",
-      "Techical Keywords: c#, asp.net, oracle, msmq , big data"
-    ]
-  },
-  {
-    "company": "Fdn SOFT",
-    "role": "Software Developer",
-    "date": "05/2009 - 06/2010",
-    "location": "Ankara, Turkey",
-    "description_bullets": [
-      "Responsible for development of a special web crawler and analysis system. (ITAS)"
-    ]
-  },
-  {
-    "company": "ORATECH Teknoloji Sistemleri",
-    "role": "Oracle DBA",
-    "date": "06/2008 - 05/2009",
-    "location": "Ankara, Turkey",
-    "description_bullets": [
-      "Oracle DBA and PL/SQL Developer",
-      "Data Cleansing, Data Enrichment with PL/SQL on Oracle DB",
-      "ETL management with Informatica between different database and  data warehouse",
-      "BI with Cognos on Sybase, design and analyse part",
-      "Testing different file systems such as ZFS and different database such as TimesTen In-Memory database",
-      "Certificates: Oracle, Informatica, Cognos and ZFS"
-    ]
-  }
-
+}
 ]
+
