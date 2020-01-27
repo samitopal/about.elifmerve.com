@@ -138,11 +138,12 @@
               </div>
               <!--(bake-start _if="school.date")-->
               <h6 class="date">{{school.date | trim}}</h6>
-              <h6 class="date">{{school.gpa | trim}}</h6>
+
               <!--(bake-end)-->
             </div>
             <!--(bake-start _if="school.description")-->
             <p>{{school.description | trim}}</p>
+                <p>{{school.gpa | trim}}</p>
             <!--(bake-end)-->
           </section>
           <!--(bake-end)-->
